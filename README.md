@@ -11,6 +11,7 @@ Tasarlayan: **WASIM MA ALNAJJAR**
 1. index.html
 2. style.css
 3. javascript.js
+5. profile.html
 4. README.md
  
 
